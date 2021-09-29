@@ -32,7 +32,7 @@ public class AdvancedFactorialTest {
             {3, 6},
             {4, 24},
             {5, 120},
-            {6, 1720}
+            {6, 720}
         };
     }
     //cần chuẩn bị 2 biến để hướng data cào mảng, sao đó thảy vào hàm test
